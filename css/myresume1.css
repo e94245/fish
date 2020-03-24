@@ -1,12 +1,12 @@
 body{
 	font-family: 'Noto Sans TC', sans-serif;
-	color:#868E96
+	color:#888888
 }
 
 h1,h2,h3,h4,h5,h6{
 	font-family: 'Noto Sans TC', sans-serif;
 	text-transform:none;
-	color:black
+	color:ffffff
 }
 
 .subheading{
@@ -27,7 +27,7 @@ a{
 }
 
 a:active,a:focus,a:hover{
-	color:#625b57
+	color:#777777
 }
 
 .text-primary{
