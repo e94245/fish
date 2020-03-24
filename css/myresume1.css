@@ -1,11 +1,43 @@
-body {
+body{
 	font-family: 'Noto Sans TC', sans-serif;
+	color:#868E96
 }
 
-h1, h2, h3, h4, h5, h6{
+h1,h2,h3,h4,h5,h6{
 	font-family: 'Noto Sans TC', sans-serif;
+	text-transform:none;
+	color:black
 }
 
 .subheading{
+	text-transform:none;
 	font-family: 'Noto Sans TC', sans-serif;
+}
+
+#about{
+	line-height:3.5rem
+}
+
+interest, .skill{
+	font-size:25px
+}
+
+a{
+	color:#625b57
+}
+
+a:active,a:focus,a:hover{
+	color:#625b57
+}
+
+.text-primary{
+	color:#625b57 !important
+}
+
+.bg-primary{
+	background-color:#27c281 !important
+}
+
+.social-icons a:hover{
+	background-color:#27c281
 }
