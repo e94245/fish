@@ -35,7 +35,7 @@ a:active,a:focus,a:hover{
 }
 
 .bg-primary{
-	background-color:#00ff00 !important
+	background-image: url("img/指甲.png");
 }
 
 .social-icons a:hover{
