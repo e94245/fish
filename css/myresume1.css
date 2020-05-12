@@ -1,12 +1,12 @@
 body{
 	font-family: 'Noto Sans TC', sans-serif;
-	color:#888888
+	color:#888888;
 }
 
 h1,h2,h3,h4,h5,h6{
 	font-family: 'Noto Sans TC', sans-serif;
 	text-transform:none;
-	color:ffffff
+	color:ffffff;
 }
 
 .subheading{
@@ -31,7 +31,7 @@ a:active,a:focus,a:hover{
 }
 
 .text-primary{
-	color:#625b57 !important
+	color:#625b57; !important
 }
 
 .bg-primary{
@@ -39,7 +39,7 @@ a:active,a:focus,a:hover{
 }
 
 .social-icons a:hover{
-	background-color:#00ff00
+	background-color:#00ff00;
 }
 
 div#container {
