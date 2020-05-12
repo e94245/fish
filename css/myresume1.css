@@ -6,7 +6,7 @@ body{
 h1,h2,h3,h4,h5,h6{
 	font-family: 'Noto Sans TC', sans-serif;
 	text-transform:none;
-	color:ffffff;
+	color:#ffffff;
 }
 
 .subheading{
@@ -23,7 +23,7 @@ interest, .skill{
 }
 
 a{
-	color:#625b57
+	color:#8100E0
 }
 
 a:active,a:focus,a:hover{
@@ -31,7 +31,7 @@ a:active,a:focus,a:hover{
 }
 
 .text-primary{
-	color:#625b57; !important
+	color:#8100E0; !important
 }
 
 .bg-primary{
