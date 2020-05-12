@@ -31,7 +31,7 @@ a:active,a:focus,a:hover{
 }
 
 .text-primary{
-	color:#8100E0; !important
+	color:#8100E0;
 }
 
 .bg-primary{
@@ -47,4 +47,9 @@ div#container {
 	padding : 0.5rem ;
 }
 
+div#flex_container {
+	display : flex;
+	flex-direction : row-reverse ;
+	justify-content: space-between;
+}
 
