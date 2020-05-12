@@ -41,3 +41,10 @@ a:active,a:focus,a:hover{
 .social-icons a:hover{
 	background-color:#00ff00
 }
+
+div#container {
+	background-color:#CE8CFF;
+	padding : 0.5rem ;
+}
+
+
