@@ -49,7 +49,7 @@ div#container {
 
 div#flex_container {
 	display : flex;
-	justify-content: space-between;
+	justify-content: space-around;
 
 }
 
